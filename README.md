@@ -16,3 +16,11 @@ Ulrasonic Mist Maker,GPIO26
 Air Filter,DC fan+Carbon filter,GPIO27
 CO2 push button,GPIO18
 Pump Push Button,GPIO19
+# picture of the PCB
+<img width="577" height="265" alt="image" src="https://github.com/user-attachments/assets/819041ac-a0bd-498d-b3de-768a95bb7e6a" />
+# picture of the 3D model
+<img width="335" height="200" alt="image" src="https://github.com/user-attachments/assets/44d7645b-6a85-47b7-8520-bb4cc5cd2bbd" />
+# picture of the rover 3D model
+<img width="434" height="202" alt="image" src="https://github.com/user-attachments/assets/71aca49a-0f40-477d-958f-f360add057a4" />
+
+
