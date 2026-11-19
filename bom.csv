@@ -1,17 +1,17 @@
 Part,What it's for,Qty,Each ($),Link,Store
 1)ESP32,Microcontroller,1,15.19$,https://a.aliexpress.com/_c4oELKut
-2)DRV8833 motor driver =4.07$*4 (https://a.aliexpress.com/_c3b2WyAH)
-3)1N4007 Diode=2.56$ (https://a.aliexpress.com/_c4UJI3zB)
-4) N20 Motor=4.83$*4 (https://a.aliexpress.com/_c4nFo5ln)
-5)motor wheels=4.70$*4 (https://a.aliexpress.com/_c3o3ZbQ1)
-6)Terminal=3.12$ (https://a.aliexpress.com/_c40lxPJj)
-7)2N2222 Transistor=2.58$ (https://a.aliexpress.com/_c4V9FmKN)
-8)Carbon foam=5.55$ (https://a.aliexpress.com/_c3Ef15mt)
-9)DC fan=3.94$ (https://a.aliexpress.com/_c41gopk9)
-10)Water pump pipe=2.96$ (https://a.aliexpress.com/_c4StYpzP)
-11)MQ135 gas sensor=2.83$ (https://a.aliexpress.com/_c387mjAD)
-12)DHT22 temp sensor=3.81$ (https://a.aliexpress.com/_c3VKbkOz)
-13)Soil moisture sensor=2.30$(https://a.aliexpress.com/_c3Nh9RgH)
+2)DRV8833,motor driver,4,4.07,https://a.aliexpress.com/_c3b2WyAH
+3)1N4007 Diode,Current passes one way,5,2.56,https://a.aliexpress.com/_c4UJI3zB
+4) N20 Motor,Rover,4,4.83,https://a.aliexpress.com/_c4nFo5ln
+5)motor wheels,Rover,4,4.70,https://a.aliexpress.com/_c3o3ZbQ1
+6)Terminal,PCB,1,3.12,https://a.aliexpress.com/_c40lxPJj
+7)2N2222 Transistor,PCB,1,2.58,https://a.aliexpress.com/_c4V9FmKN
+8)Carbon foam,Air filter,1,5.55,https://a.aliexpress.com/_c3Ef15mt
+9)DC fan,Air filter,1,3.94,https://a.aliexpress.com/_c41gopk9
+10)Water pump pipe,Irrigation,1,2.96,https://a.aliexpress.com/_c4StYpzP
+11)MQ135 gas sensor,Air Quality monitoring,1,2.83,https://a.aliexpress.com/_c387mjAD
+12)DHT22 temp sensor,Temprature measure,1,3.81,https://a.aliexpress.com/_c3VKbkOz
+13)Soil moisture sensor,Irrigation system,1,2.30,https://a.aliexpress.com/_c3Nh9RgH
 Total for AliExpress=86.88$
 Btw I havent added every thing in the List as my Hack Club budget was getting out so I paid them from my own savings!
 Custom PCB 2 usd since really less time i need dhl express delivery so:
