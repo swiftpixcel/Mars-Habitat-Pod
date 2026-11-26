@@ -16,6 +16,9 @@ Ulrasonic Mist Maker,GPIO26
 Air Filter,DC fan+Carbon filter,GPIO27
 CO2 push button,GPIO18
 Pump Push Button,GPIO19
+Wiring diagram
+<img width="1653" height="1170" alt="wiring-diagram_2026-11-27 (1)" src="https://github.com/user-attachments/assets/b62cc187-398d-4f2e-bb08-ece540be366d" />
+
 # picture of the PCB
 <img width="577" height="265" alt="image" src="https://github.com/user-attachments/assets/819041ac-a0bd-498d-b3de-768a95bb7e6a" />
 # picture of the 3D model
