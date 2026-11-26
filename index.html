@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mars Habitat Pod Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="top-bar">
+    <h1>Mars Habitat Survival Pod</h1>
+    <p id="statusText">System Status: Normal</p>
+  </div>
+
+  <div class="main-box">
+    <div class="sensor-card">
+      <h2>Temperature</h2>
+      <p class="big-num" id="temp">23.5 C</p>
+    </div>
+
+    <div class="sensor-card">
+      <h2>Humidity</h2>
+      <p class="big-num" id="hum">52%</p>
+      <p id="mistStatus">Mist Maker: OFF</p>
+    </div>
+
+    <div class="sensor-card">
+      <h2>Soil Moisture</h2>
+      <p class="big-num" id="soil">48%</p>
+      <p id="pumpStatus">Water Pump: OFF</p>
+    </div>
+
+    <div class="sensor-card">
+      <h2>Air Quality</h2>
+      <p class="big-num" id="air">85%</p>
+      <p id="fanStatus">Carbon Fan: OFF</p>
+    </div>
+  </div>
+
+  <div class="btn-box">
+    <button onclick="startStorm()">Test CO2 Storm</button>
+    <button onclick="startDrought()">Test Drought</button>
+    <button onclick="resetAll()">Reset Habitat</button>
+  </div>
+
+  <div class="log-box">
+    <h3>Activity Log</h3>
+    <p id="logText">Waiting for sensor updates...</p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
 
