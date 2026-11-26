@@ -1,1 +1,58 @@
+body {
+  background-color: #111827;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+.top-bar {
+  background-color: #1f2937;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+.main-box {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.sensor-card {
+  background-color: #1f2937;
+  border: 1px solid #374151;
+  border-radius: 8px;
+  padding: 20px;
+  width: 200px;
+}
+.big-num {
+  font-size: 28px;
+  font-weight: bold;
+  color: #38bdf8;
+}
+.btn-box {
+  margin-top: 25px;
+}
+button {
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  padding: 12px 18px;
+  margin: 5px;
+  border-radius: 6px;
+  font-size: 15px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #1d4ed8;
+}
+.log-box {
+  background-color: #030712;
+  padding: 15px;
+  margin-top: 25px;
+  border-radius: 8px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
