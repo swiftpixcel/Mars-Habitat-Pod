@@ -1,58 +1,46 @@
 body {
-  background-color: #111827;
+  background: black;
   color: white;
-  font-family: sans-serif;
+  font-family: Arial;
   text-align: center;
-  margin: 0;
   padding: 20px;
 }
+
 .top-bar {
-  background-color: #1f2937;
+  background: navy;
   padding: 15px;
-  border-radius: 8px;
   margin-bottom: 20px;
 }
+
 .main-box {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
   gap: 15px;
 }
+
 .sensor-card {
-  background-color: #1f2937;
-  border: 1px solid #374151;
-  border-radius: 8px;
-  padding: 20px;
-  width: 200px;
-}
-.big-num {
-  font-size: 28px;
-  font-weight: bold;
-  color: #38bdf8;
-}
-.btn-box {
-  margin-top: 25px;
-}
-button {
-  background-color: #2563eb;
-  color: white;
-  border: none;
-  padding: 12px 18px;
-  margin: 5px;
-  border-radius: 6px;
-  font-size: 15px;
-  cursor: pointer;
-}
-button:hover {
-  background-color: #1d4ed8;
-}
-.log-box {
-  background-color: #030712;
+  background: #222;
+  border: 1px solid gray;
   padding: 15px;
-  margin-top: 25px;
-  border-radius: 8px;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 180px;
 }
 
+.big-num {
+  font-size: 26px;
+  color: cyan;
+}
+
+button {
+  background: blue;
+  color: white;
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.log-box {
+  background: #111;
+  padding: 15px;
+  margin-top: 20px;
+}
